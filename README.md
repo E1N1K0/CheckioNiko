@@ -35,7 +35,7 @@
 - EJERCICIO 23: Between Markers.
 
 
-## PYTHON CODE CHALENGE:
+# PYTHON CODE CHALENGE:
 - Encontrar factores primos.
 - Palindromos.
 - Ordenar palabras alfabeticamente.
