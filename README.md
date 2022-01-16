@@ -33,3 +33,10 @@
 - EJERCICIO 21: Backward Each Word.
 - EJERCICIO 22: Bigger Price: Find the TOP most expensive goods.
 - EJERCICIO 23: Between Markers.
+
+
+## PYTHON CODE CHALENGE:
+- Encontrar factores primos.
+- Palindromos.
+- Ordenar palabras alfabeticamente.
+- Encontrar todos los items de una lista.
